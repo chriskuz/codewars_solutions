@@ -3,17 +3,13 @@ This is a placeholder until a narrative is constructed.
 # What is Codewars?
 
 # What is this Repository's Structure?
--Python
+- Python
 
- |
+    - Different Kata Problems
 
- |-Different Kata Problems
+        - solution.ipynb
 
-   |
-
-   |-solution.ipynb
-
-   |-README.md
+        - README.md
  
 -SQL
 
@@ -26,7 +22,7 @@ This is a placeholder until a narrative is constructed.
    |-solution.ipynb
 
    |-README.md
-   
+
 -README.md
 
 # Future Work
