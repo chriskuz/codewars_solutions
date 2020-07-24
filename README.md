@@ -11,19 +11,12 @@ This is a placeholder until a narrative is constructed.
 
         - README.md
  
--SQL
-
- |
-
- |-Different Kata Problems
-
-   |
-
-   |-solution.ipynb
-
-   |-README.md
-
--README.md
+- SQL
+    - Different Kata Problems
+        - solution.ipynb
+        - README.md
+        
+- README.md
 
 # Future Work
 I will be considering adding more SQL problems, higher Kata based problems, as well as solve problems in other languages. I will even plan on linking problems together to other languages, should I choose to work on the same problems. 
