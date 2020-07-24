@@ -4,18 +4,29 @@ This is a placeholder until a narrative is constructed.
 
 # What is this Repository's Structure?
 -Python
+
  |
+
  |-Different Kata Problems
+
    |
+
    |-solution.ipynb
+
    |-README.md
  
 -SQL
+
  |
+
  |-Different Kata Problems
+
    |
+
    |-solution.ipynb
+
    |-README.md
+   
 -README.md
 
 # Future Work
